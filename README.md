@@ -6,12 +6,12 @@
 
 ## 🔧 Becerilerim  
 - **Programlama Dilleri:** HTML, CSS, Bootstrap, JavaScript  
-- **Geliştirme Araçları:** Git, Visual Studio Code  
+- **Geliştirme Araçları:** Git,Visual Studio, Visual Studio Code  
 - **Proje Yönetimi:** Ekip çalışması, zaman yönetimi  
 
 ## 📌 Öne Çıkan Projeler  
-- **[Bonumech Web Sitesi](#):** Şirketin şu anda aktif olarak kullandığı modern ve işlevsel bir web sitesi geliştirdim.  
-- **[Akgen İnşaat Web Sitesi](#):** Node.js kullanarak hem front-end hem de back-end süreçlerini yönettiğim bir proje.  
+- **[Bonumech Web Sitesi](https://www.bonumech.com/):** Şirketin şu anda aktif olarak kullandığı modern ve işlevsel bir web sitesi geliştirdim.  
+- **[Akgen İnşaat Web Sitesi](https://www.akgeninsaat.com/):** Node.js kullanarak hem front-end hem de back-end süreçlerini yönettiğim bir proje.  
 
 ## 🌟 Hedeflerim  
 - ASP.NET ve C# alanlarında uzmanlaşarak daha büyük projelerde yer almak.  
